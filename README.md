@@ -7,6 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 -Software engineering is the art and science of designing, building and maintaining software solutions that solve real world problems.
 -It is important because it creates solutions for global challenges hence promoting the technology industry.
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Birth of software development and programming languages - In the 1950s, the beginning of software development as a field, with programmers writing machine level instructions and dealing directly with hardware.
 2. Software crisis and structured programming - In the 1960s, projects became complex and difficult to manage leading to emergence of structured programming emphasizing on modularity and clear code organisation.
@@ -42,7 +43,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1. Unit testing - It's a software testing method  where you test the smallest functional unit of code. It ensures that each small part of the code functions as intended which helps catch errors early in the development process.
-2. Intgration testing - It is a type of software testing in which different units or modules of a software application are tested as a combined entity. It identifies defects or issues that arise when multiple software components are combined and interact.
+2. Integration testing - It is a type of software testing in which different units or modules of a software application are tested as a combined entity. It identifies defects or issues that arise when multiple software components are combined and interact.
 3. System testing - Examines every component of an application to make sure that they work as a complete and unified system. It is used to identify defects and ensure the system behaves as intended
 4. Acceptance testing - Is a quality assurance process that determines to what degree an application meets end users approval. It determines if a software system meets the needs and expectations of the end users before production
 
@@ -51,7 +52,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 - Prompt engineering is the art and science of crafting instructions to guide generative AI models towards generating desired, high quality outputs.
-- It is important because it creates high quality responses or outputs from the AI models
+- It is important because it creates high quality responses or outputs from the AI models.
+  
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 - Example of vague prompt "Tell me about climate change"
 - Improved prompt "Tell me about cimate change in the western part of Africa"
